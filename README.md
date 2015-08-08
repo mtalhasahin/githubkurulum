@@ -24,24 +24,36 @@
 
 ```sh
 
- git init
- git add dosyaadı/*(hepsi)
- git commit -m "ilk commit"
- git remote add origin https://github.com/mtalhasahin/lyk2015php
- git pull  --rebase origin master 
- git push origin master
+ $ git init
+
+ $ git add dosyaadı/*(hepsi)
+
+ $ git commit -m "ilk commit"
+
+ $ git remote add origin https://github.com/mtalhasahin/lyk2015php
+
+ $ git pull  --rebase origin master 
+
+ $ git push origin master
 
 ```
 ### Dosya Güncelleme
 -----------------
 ```sh
 
- git add gun1/github.md
+ $ git add gun1/github.md
 
- git commit -m "2.commit"
+ $ git commit -m "2.commit"
 
- git push origin master
+ $ git push origin master
 
- kullanıcıadı ve şifre
+ $ Username for 'https://github.com':
+
+ $ Password for 'https://kullaniciadi@github.com': 
 
 ```
+
+### Sosyal Medya
+- [Facebook](https://www.facebook.com/muhammed.t.sahin.1)
+- [Twitter](https://twitter.com/tlhashin)
+- [linkedin](https://tr.linkedin.com/in/mtalhasahin)
