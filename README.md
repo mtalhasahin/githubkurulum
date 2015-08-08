@@ -1,18 +1,18 @@
 ### GİTHUB KURULUMU
------------------
+-------------------
 
 ```sh
- sudo apt-get install git-core curl
+ $ sudo apt-get install git-core curl
 
- git config --global user.name "kullaniciadiniz"
+ $ git config --global user.name "kullaniciadiniz"
 
- git config --global user.email "email adresiniz"
+ $ git config --global user.email "email adresiniz"
 
- ssh-keygen(enter'a bas)
+ $ ssh-keygen(enter'a bas)
 
- cd ~/.ssh
+ $ cd ~/.ssh
 
- cat id_rsa.pub
+ $ cat id_rsa.pub
 
  tarayıcadan github gel
 
@@ -54,6 +54,8 @@
 ```
 
 ### Sosyal Medya
+-----------------
+
 - [Facebook](https://www.facebook.com/muhammed.t.sahin.1)
 - [Twitter](https://twitter.com/tlhashin)
 - [linkedin](https://tr.linkedin.com/in/mtalhasahin)
