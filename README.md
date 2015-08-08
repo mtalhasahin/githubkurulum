@@ -1,0 +1,2 @@
+# githubkurulum
+Github Linux Kurulumu
