@@ -1,0 +1,30 @@
+									LİNUX YAZ KAMPI
+								-----------------------------------
+GİTHUB KURULUMU
+-----------------
+
+1.sudo apt-get install git-core curl
+2.git config --global user.name "kullaniciadiniz"
+3.git config --global user.email "email adresiniz"
+4.ssh-keygen(enter'a bas)
+5.cd ~/.ssh
+6.cat id_rsa.pub
+7.tarayıcadan github gel
+8.Profil/edit profile/settings/sshkeys yapıştır.
+
+
+Reporistory Ekleme
+-------------------
+1.git init
+2.git add dosyaadı/*(hepsi)
+3.git commit -m "ilk commit"
+4.git remote add origin https://github.com/mtalhasahin/lyk2015php
+5.git pull  --rebase origin master
+6.git push origin master
+
+Dosya Güncelleme
+-----------------
+1.git add gun1/github.md
+2.git commit -m "2.commit"
+3.git push origin master
+4.kullanıcıadı ve şifre
